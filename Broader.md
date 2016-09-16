@@ -28,4 +28,3 @@ PDF of NSF overview on Broader Impacts, with examples: https://www.nsf.gov/od/oi
 
 Broader impacts for systematics DDIGs: http://treethinkers.blogspot.com/2010/11/tips-for-writing-systematics-ddig-part_09.html
 
-https://www.nsfgrfp.org/applicants/application_components/merit_review_criteria
