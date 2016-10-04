@@ -59,7 +59,7 @@ In addition, DDIG proposals will be checked for compliance with formatting instr
 
 Also, general NSF guidelines: https://www.nsf.gov/pubs/policydocs/pappguide/nsf16001/gpg_index.jsp
 
-* No URLs
+* No URLs: https://www.nsf.gov/pubs/policydocs/pappguide/nsf16001/gpg_2.jsp#IIC2dii
 * Use Arial, Courier New, or Palatino Linotype at a font size of 10 points or larger; Times New Roman at a font size of 11 points or larger; or Computer Modern family of fonts at a font size of 11 points or larger.
 * A font size of less than 10 points may be used for mathematical formulas or equations, figures, table or diagram captions and when using a Symbol font to insert Greek letters or special characters. PIs are cautioned, however, that the text must still be readable.
 * Margins, in all directions, must be at least an inch.
