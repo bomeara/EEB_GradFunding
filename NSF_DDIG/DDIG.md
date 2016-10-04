@@ -11,22 +11,19 @@ Due date: Oct 13, 2016
 
 A statement labeled Context for Improvement is **required** as a Supplementary Document, not to exceed one page. This statement from the student should detail:
 
-* how the NSF funding will substantially improve the overall dissertation project, and how it represents an **enhancement to, rather than the core of**, the student's dissertation research,
-* an explanation of how the proposed research is **intellectually independent of the student's advisor**, and
-* how the research can not be supported through **any research awards that support the advisor's own research**.
+* how the NSF funding will substantially improve the overall dissertation project, and how it represents an **enhancement to, rather than the core of**, the student's dissertation research. In short, make sure you have a good, complete dissertation without the grant, but the money will let you improve it in an important way
+* an explanation of how the proposed research is **intellectually independent of the student's advisor**.
+* how the research can not be supported through **any research awards that support the advisor's own research**. You're doing your own grant as an independent person -- your PI is signed on, but this is your stuff.
 
-## Criteria
+# Broader impacts matter
 
-When evaluating NSF proposals, reviewers will be asked to consider what the proposers want to do, why they want to do it, how they plan to do it, how they will know if they succeed, and what benefits could accrue if the project is successful. These issues apply both to the technical aspects of the proposal and the way in which the project may make broader contributions. To that end, reviewers will be asked to evaluate all proposals against two criteria:
-
-* Intellectual Merit: The Intellectual Merit criterion encompasses the potential to advance knowledge; and
-* Broader Impacts: The Broader Impacts criterion encompasses the potential to benefit society and contribute to the achievement of specific, desired societal outcomes.
+Scientists are often focused on the research question. But NSF has two criteria: intellectual merit and broader impacts. Broader impacts have the potential to benefit society and contribute to the achievement of specific, desired societal outcomes. Such outcomes can be building STEM talent, leading to practical outcomes, or reaching out to the public. They should be a substantial part of the proposal, ideally emerging naturally from it, not "oh, and I'll do Boo at the Zoo one night." Including them in your budget may be appropriate, and helps demonstrate seriousness. Also think about assessment: how can you get information that your broader impacts are working? Surveys of participants, tracking web hits with Google Analytics, etc. For a DDIG, you're not going to solve Ebola while getting thousands of new kids into STEM, but do think about a concrete impact you can make. As with all parts of the proposal, you want it to be clearly something you have a good chance of achieving.
 
 # Notes
 
 From solicitation, with emphasis added:
 
-Proposals whose focus falls within the scope of any cluster in the Division of Environmental Biology (DEB) are eligible. Please note that DEB programs generally do not support research in marine ecology. In the Division of Integrative Organismal Systems (IOS) only proposals within the scientific area of animal behavior supported by the Behavioral Systems Cluster are eligible. The duration and grant amount are flexible but must be justified by the scope of work and documented in the proposal. Grants are awarded for amounts up to **$13,000** in Direct Costs and periods of up to 24 months.
+Proposals whose focus falls within the scope of any cluster in the Division of Environmental Biology (DEB) are eligible. In the Division of Integrative Organismal Systems (IOS) only proposals within the scientific area of animal behavior supported by the Behavioral Systems Cluster are eligible. The duration and grant amount are flexible but must be justified by the scope of work and documented in the proposal. Grants are awarded for amounts up to **$13,000** in Direct Costs and periods of up to 24 months.
 
 These awards are intended to provide supplemental funds for items **not normally available from the student's university or other sources**. They are not intended to provide the total costs of a student's dissertation research. Allowable items include travel to specialized facilities or field research locations and professional meetings, use of specialized research equipment, purchase of supplies and services not otherwise available, the hiring of field or laboratory assistants, fees for computerized or other forms of data, and rental of environmental chambers or other research facilities.
 
@@ -36,7 +33,7 @@ Letters of support should not have any info except for that detailed in the soli
 
 # Budget
 
-Because entering person-months on the budget could be construed as voluntarily committing cost sharing which is not permitted, no individuals should appear on the budget. You will need to manually remove the PI and co-PI names from the list of senior personnel in the budget.
+Because entering person-months on the budget could be construed as voluntarily committing cost sharing which is not permitted, no individuals should appear on the budget. You will need to manually remove the PI and co-PI names from the list of senior personnel in the budget. Remember to keep it at $13K or less in direct costs (the actual costs of things: universities then add charges to the funders on top of this to pay for things like lab space, the office of research to handle grants, people to check safety, etc.
 
 # Presubmission checklist
 
